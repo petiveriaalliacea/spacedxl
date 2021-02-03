@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+}
+
+a:visited {
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: Yusei Magic
+}
+
+p {
+  color: white;
+}
+
+table {
+  text-align: center;
+}
+
+hr {
+  border-top: 1px solid grey;
+}
+
+#title {
+  /* background-color: black; */
+  background: url("images/venus.jpg") top center;
+  height: 660px
+    /*
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+#navigation {
+  padding: 20px 30px;
+  /* padding-top: 20px;
+    padding-right: 30px; */
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.info {
+  margin-top: 200px;
+  margin-bottom: 150px;
+}
+
+.quote {
+  font-family: Yusei Magic;
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.row {
+  padding-right: 100px;
+  padding-left: 1px;
+}
+
+.title-quote {
+  margin-top: 90px;
+  margin-left: 600px;
+}

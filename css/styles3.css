@@ -1,0 +1,60 @@
+body {
+  background: url("images/contact.jpg") top center;
+}
+
+button {
+  color: grey;
+}
+
+h1 {
+  font-family: Yusei Magic;
+  color: grey;
+}
+
+p {
+  text-align: center;
+}
+
+i {
+  color: grey;
+}
+
+input {
+  background-color: grey;
+  border-radius: 10%;
+}
+
+textarea {
+  background-color: grey;
+  border-radius: 5%;
+}
+
+#navigation {
+  padding: 20px 30px;
+}
+
+#moon {
+  width: 200px;
+}
+
+.container {
+  background-color: black;
+  margin-left: 200px;
+  margin-top: 50px;
+  width: 920px;
+}
+
+.input-text {
+  font-family: Crete Round;
+  color: grey;
+}
+
+.info {
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.row {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
